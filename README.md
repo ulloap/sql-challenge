@@ -1,5 +1,4 @@
 # sql-challenge
-module9
 
 module9
 
